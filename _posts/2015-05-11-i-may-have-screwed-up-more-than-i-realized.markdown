@@ -4,7 +4,7 @@ title: I may have screwed up more than I realized...
 date: '2015-05-11 08:34:01'
 ---
 
-###### Remember that [post](http://usingname.space/2015/04/26/improve-your-linux-satisfaction-in-one-easy-step/) about ripping out Gnome when I installed Xfce?
+###### Remember that [post]({% post_url 2015-04-26-improve-your-linux-satisfaction-in-one-easy-step %}) about ripping out Gnome when I installed Xfce?
 
 Well, every once in awhile I stumble across an unintended consequence. Like tonight, when my wifi didn't automatically connect... I recently upgraded my [LG G2](www.lg.com/us/mobile-phones/g2) to [Lollipop](https://www.android.com/intl/en_us/versions/lollipop-5-0/) (5.0.2 is all I got, but I'll take anything for a 2013 phone), and in the process my hotspot information got reset. So (unsurprisingly) the saved network information that linux has been using to automagically connect to wifi doesn't work for that hotspot anymore. I've been using the ethernet jack recently, so hadn't noticed or needed to fix it, but tonight I didn't feel like plugging in... which was a problem.
 
